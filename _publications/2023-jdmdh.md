@@ -1,3 +1,4 @@
+
 ---
 title: "Towards a general open dataset and models for late medieval Castilian text recognition (HTR/OCR)."
 collection: publications
