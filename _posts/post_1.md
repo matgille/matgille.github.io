@@ -8,6 +8,7 @@ tags:
   - category2
 ---
 
+Sur un dépôt à jour:
 ```
 git add .gitignore
 git commit -m "Update gitignore"
