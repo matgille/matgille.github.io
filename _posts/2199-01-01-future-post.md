@@ -8,4 +8,10 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+```
+git add .gitignore
+git commit -m "Update gitignore"
+git rm -r --cached .
+git add .
+git commit -m "Update files wrt gitignore"
+```
