@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'Mettre à jour un dépôt avec un `.gitignore` actualisé.'
 date: 2026-02-02
 permalink: /posts/2012/08/blog-post-4/
 tags:
