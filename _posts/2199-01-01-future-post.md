@@ -15,3 +15,5 @@ git rm -r --cached .
 git add .
 git commit -m "Update files wrt gitignore"
 ```
+
+Source: [https://stackoverflow.com/a/38451183](https://stackoverflow.com/a/38451183).
