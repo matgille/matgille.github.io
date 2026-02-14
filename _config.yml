@@ -24,13 +24,13 @@ repository               : "matgille/matgille.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Matthias Gille Levenson"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctorant, UVSQ"
   location         : "Lyon"
-  employer         : "Université Versailles Saint Quentin en Yvelines (UVSQ)"
+  employer         : "Université Versailles Saint-Quentin en Yvelines (UVSQ)"
   uri              : # URL
-  email            : "matthias.gille tiret levenson atrobase ens tiret lyon.fr" 
+  email            : "matthias.gille-levenson@ens-lyon.fr" 
 
   # Academic websites
   academia         : # URL
