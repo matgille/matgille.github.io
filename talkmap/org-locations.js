@@ -1,22 +1,7 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
-  ],
-  [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
-    "LREC2026 -- DH track<br />LREC2026; Mallorca, Espagne",
+    "Phrase-Level Segmentation on Medieval Corpora for Aligning Multilingual Texts<br />LREC2026 -- DH Track; Mallorca, Espagne",
     39.613432,
     2.8829185
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
   ]
 ];
