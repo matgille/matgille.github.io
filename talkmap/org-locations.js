@@ -10,7 +10,7 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />LREC2026; Mallorca, Espagne",
+    "LREC2026 -- DH track<br />LREC2026; Mallorca, Espagne",
     39.613432,
     2.8829185
   ],
